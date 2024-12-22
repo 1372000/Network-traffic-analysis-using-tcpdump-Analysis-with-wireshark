@@ -1,0 +1,2 @@
+# Network-traffic-analysis-using-tcpdump-Analysis-with-wireshark
+can not be more than 330 characters Network traffic analysis monitors and examines data packets to identify issues and threats. Tools like Wireshark and tcpdump help with this. Wireshark provides a graphical interface for detailed inspection, while tcpdump is a command-line tool for capturing and analyzing traffic, ensuring performance.
